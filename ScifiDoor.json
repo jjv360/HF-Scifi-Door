@@ -1,0 +1,50 @@
+{
+    "DataVersion": 0,
+    "Entities": [
+        {
+            "animation": {
+                "hold": true,
+                "lastFrame": 29,
+                "loop": false,
+                "running": true,
+                "url": "scifi-door.fbx"
+            },
+            "clientOnly": false,
+            "created": "2018-08-29T15:29:43Z",
+            "dimensions": {
+                "blue": 1.9876248836517334,
+                "green": 3.5140833854675293,
+                "red": 3.659052610397339,
+                "x": 3.659052610397339,
+                "y": 3.5140833854675293,
+                "z": 1.9876248836517334
+            },
+            "id": "{6e719ded-961f-4402-9730-fc07a42ca60e}",
+            "lastEdited": 1535565439449564,
+            "lastEditedBy": "{3a256fe7-fded-4e64-a72a-5c44ccf6cc03}",
+            "modelURL": "scifi-door.fbx",
+            "name": "Scifi Door",
+            "owningAvatarID": "{00000000-0000-0000-0000-000000000000}",
+            "queryAACube": {
+                "scale": 5.448678970336914,
+                "x": -2.724339485168457,
+                "y": -2.724339485168457,
+                "z": -2.724339485168457
+            },
+            "rotation": {
+                "w": 0.07823300361633301,
+                "x": -4.57763671875e-05,
+                "y": -0.9969481825828552,
+                "z": 1.52587890625e-05
+            },
+            "script": "DoorClient-vanilla.js",
+            "scriptTimestamp": 1535557995919,
+            "serverScripts": "DoorServer-vanilla.js",
+            "shapeType": "simple-hull",
+            "type": "Model",
+            "userData": "{\"grabbableKey\":{\"grabbable\":false}}"
+        }
+    ],
+    "Id": "{78748732-f696-4608-91fc-e7927a27b4b8}",
+    "Version": 92
+}

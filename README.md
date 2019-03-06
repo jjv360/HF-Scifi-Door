@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/status-ready-brightgreen.svg)
+
 # High Fidelity: Scifi Door
 
 This contains the code and assets for the [High Fidelity](https://highfidelity.com) door object.
